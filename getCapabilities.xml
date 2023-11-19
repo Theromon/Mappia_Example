@@ -717,7 +717,7 @@
 				<Title>sandpit</Title>
 				<Abstract>GH:sandpit ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-80.29400551884295" miny="48.24504317992297" maxx="-80.29223015484818" maxy="48.24604582119686"></LatLonBoundingBox>
@@ -737,7 +737,7 @@
 				<Title>ponds</Title>
 				<Abstract>GH:ponds ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸//github.com/Theromon/Mappia_Example/releases/download/Map_Download/ponds.zip˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸//github.com/Theromon/Mappia_Example/releases/download/Map_Download/ponds.zip˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-80.31043237619386" miny="48.23178273278755" maxx="-80.2596149511518" maxy="48.25391897787007"></LatLonBoundingBox>
@@ -757,7 +757,7 @@
 				<Title>streams</Title>
 				<Abstract>GH:streams ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸//github.com/Theromon/Mappia_Example/releases/download/Map_Download/streams.zip˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸//github.com/Theromon/Mappia_Example/releases/download/Map_Download/streams.zip˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-80.30777938284139" miny="48.23958355854543" maxx="-80.27874432024882" maxy="48.25458197018171"></LatLonBoundingBox>
@@ -777,7 +777,7 @@
 				<Title>marsh2</Title>
 				<Abstract>GH:marsh2 ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸//github.com/Theromon/Mappia_Example/releases/download/Map_Download/marsh2.zip˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸//github.com/Theromon/Mappia_Example/releases/download/Map_Download/marsh2.zip˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-80.30862394893614" miny="48.235568768951" maxx="-80.27795009946955" maxy="48.25478205088032"></LatLonBoundingBox>
@@ -797,7 +797,7 @@
 				<Title>boggy</Title>
 				<Abstract>GH:boggy ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸//github.com/Theromon/Mappia_Example/releases/download/Map_Download/boggy.zip˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸//github.com/Theromon/Mappia_Example/releases/download/Map_Download/boggy.zip˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-80.2988278761152" miny="48.24023062339432" maxx="-80.27793881145172" maxy="48.254623813966106"></LatLonBoundingBox>
@@ -817,7 +817,7 @@
 				<Title>flooded</Title>
 				<Abstract>GH:flooded ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸//github.com/Theromon/Mappia_Example/releases/download/Map_Download/flooded.zip˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸//github.com/Theromon/Mappia_Example/releases/download/Map_Download/flooded.zip˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-80.30000407667727" miny="48.24023062339432" maxx="-80.27793881145166" maxy="48.254662492990334"></LatLonBoundingBox>
@@ -837,7 +837,7 @@
 				<Title>possibly_boggy__flooded_</Title>
 				<Abstract>GH:possibly_boggy__flooded_ ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸//github.com/Theromon/Mappia_Example/releases/download/Map_Download/possibly_boggy__flooded_.zip˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸//github.com/Theromon/Mappia_Example/releases/download/Map_Download/possibly_boggy__flooded_.zip˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-80.29970995174378" miny="48.24437742110014" maxx="-80.2826711455211" maxy="48.25390351992534"></LatLonBoundingBox>
@@ -857,7 +857,7 @@
 				<Title>selected_sites_as_of_2023_08_26</Title>
 				<Abstract>GH:selected_sites_as_of_2023_08_26 ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸//github.com/Theromon/Mappia_Example/releases/download/Map_Download/selected_sites_as_of_2023_08_26.zip˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸//github.com/Theromon/Mappia_Example/releases/download/Map_Download/selected_sites_as_of_2023_08_26.zip˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-80.3159936817024" miny="48.23384738229857" maxx="-80.26667027644876" maxy="48.2628102959661"></LatLonBoundingBox>
@@ -877,7 +877,7 @@
 				<Title>usable_roads___centreline</Title>
 				<Abstract>GH:usable_roads___centreline ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸//github.com/Theromon/Mappia_Example/releases/download/Map_Download/usable_roads___centreline.zip˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸//github.com/Theromon/Mappia_Example/releases/download/Map_Download/usable_roads___centreline.zip˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-80.30217858551688" miny="48.24027548903377" maxx="-80.28083480905217" maxy="48.25445212919115"></LatLonBoundingBox>
@@ -897,7 +897,7 @@
 				<Title>buildings__amp__structures_2</Title>
 				<Abstract>GH:buildings__amp__structures_2 ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸//github.com/Theromon/Mappia_Example/releases/download/Map_Download/buildings__amp__structures_2.zip˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸//github.com/Theromon/Mappia_Example/releases/download/Map_Download/buildings__amp__structures_2.zip˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-80.29484783729163" miny="48.24542991960366" maxx="-80.28713994327856" maxy="48.25127184380454"></LatLonBoundingBox>
@@ -917,7 +917,7 @@
 				<Title>contours_1m_simplified_0_25</Title>
 				<Abstract>GH:contours_1m_simplified_0_25 ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸//github.com/Theromon/Mappia_Example/releases/download/Map_Download/contours_1m_simplified_0_25.zip˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸//github.com/Theromon/Mappia_Example/releases/download/Map_Download/contours_1m_simplified_0_25.zip˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-80.31326388721774" miny="48.228835415387074" maxx="-80.25881963740122" maxy="48.26515475545962"></LatLonBoundingBox>
@@ -937,7 +937,7 @@
 				<Title>property_boundary</Title>
 				<Abstract>GH:property_boundary ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-80.30370443813416" miny="48.23985453374607" maxx="-80.28050516032795" maxy="48.2547903201142"></LatLonBoundingBox>
@@ -957,7 +957,7 @@
 				<Title>mnrf_roads___local</Title>
 				<Abstract>GH:mnrf_roads___local ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸//github.com/Theromon/Mappia_Example/releases/download/Map_Download/mnrf_roads___local.zip˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸//github.com/Theromon/Mappia_Example/releases/download/Map_Download/mnrf_roads___local.zip˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-80.51066516564748" miny="48.15985870209596" maxx="-80.13389559990345" maxy="48.34198869856492"></LatLonBoundingBox>
@@ -977,7 +977,7 @@
 				<Title>slope</Title>
 				<Abstract>GH:slope ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸tif˸˸˸//github.com/Theromon/Mappia_Example/releases/download/Map_Download/slope.zip˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸tif˸˸˸//github.com/Theromon/Mappia_Example/releases/download/Map_Download/slope.zip˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-80.31326388721774" miny="48.2288358490509" maxx="-80.2588870054543" maxy="48.26515475545962"></LatLonBoundingBox>
